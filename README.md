@@ -11,7 +11,7 @@ The [Tip Calculator](https://github.com/MBBProgramming/MBB/tree/e08c2fa512197d35
 ## Assignment 3: Adopt an insect
 for the [Adopt and insect](https://github.com/MBBProgramming/MBB/tree/0bfe5c2f900c23125ac16b5467f3c807679da79a/Adopt%20an%20Insect/Adopt%20an%20Insect) assignment, it was a begginer assignment to learn UML design and display that design in console using C# code
 
-Here is the UML diagram for this assignment [UML Diagram:](https://raw.githubusercontent.com/MBBProgramming/MBB/main//assets/imagesAdopt%20and%20insect.png)
+Here is the UML diagram for this assignment [UML Diagram:](https://github.com/MBBProgramming/MBB/blob/fd247735d420fea098e3dc227eaee6faba8dbe55/Adopt%20and%20insect.png)
 
 
 ## Assignment 4:
