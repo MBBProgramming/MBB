@@ -1,0 +1,15 @@
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\bin\Debug\net7.0\Tip Calculator.exe
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\bin\Debug\net7.0\Tip Calculator.deps.json
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\bin\Debug\net7.0\Tip Calculator.runtimeconfig.json
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\bin\Debug\net7.0\Tip Calculator.dll
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\bin\Debug\net7.0\Tip Calculator.pdb
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\obj\Debug\net7.0\Tip Calculator.csproj.AssemblyReference.cache
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\obj\Debug\net7.0\Tip Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\obj\Debug\net7.0\Tip Calculator.AssemblyInfoInputs.cache
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\obj\Debug\net7.0\Tip Calculator.AssemblyInfo.cs
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\obj\Debug\net7.0\Tip Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\obj\Debug\net7.0\Tip Calculator.dll
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\obj\Debug\net7.0\refint\Tip Calculator.dll
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\obj\Debug\net7.0\Tip Calculator.pdb
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\obj\Debug\net7.0\Tip Calculator.genruntimeconfig.cache
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Tip Calculator\Tip Calculator\obj\Debug\net7.0\ref\Tip Calculator.dll
