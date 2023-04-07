@@ -1,0 +1,15 @@
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\bin\Debug\net7.0\ToTheCore.exe
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\bin\Debug\net7.0\ToTheCore.deps.json
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\bin\Debug\net7.0\ToTheCore.runtimeconfig.json
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\bin\Debug\net7.0\ToTheCore.dll
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\bin\Debug\net7.0\ToTheCore.pdb
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\obj\Debug\net7.0\ToTheCore.csproj.AssemblyReference.cache
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\obj\Debug\net7.0\ToTheCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\obj\Debug\net7.0\ToTheCore.AssemblyInfoInputs.cache
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\obj\Debug\net7.0\ToTheCore.AssemblyInfo.cs
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\obj\Debug\net7.0\ToTheCore.csproj.CoreCompileInputs.cache
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\obj\Debug\net7.0\ToTheCore.dll
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\obj\Debug\net7.0\refint\ToTheCore.dll
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\obj\Debug\net7.0\ToTheCore.pdb
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\obj\Debug\net7.0\ToTheCore.genruntimeconfig.cache
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\ToTheCore\ToTheCore\obj\Debug\net7.0\ref\ToTheCore.dll
