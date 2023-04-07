@@ -1,0 +1,15 @@
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\obj\Debug\net7.0\Adopt an Insect.csproj.AssemblyReference.cache
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\obj\Debug\net7.0\Adopt an Insect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\obj\Debug\net7.0\Adopt an Insect.AssemblyInfoInputs.cache
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\obj\Debug\net7.0\Adopt an Insect.AssemblyInfo.cs
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\obj\Debug\net7.0\Adopt an Insect.csproj.CoreCompileInputs.cache
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\bin\Debug\net7.0\Adopt an Insect.exe
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\bin\Debug\net7.0\Adopt an Insect.deps.json
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\bin\Debug\net7.0\Adopt an Insect.runtimeconfig.json
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\bin\Debug\net7.0\Adopt an Insect.dll
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\bin\Debug\net7.0\Adopt an Insect.pdb
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\obj\Debug\net7.0\Adopt an Insect.dll
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\obj\Debug\net7.0\refint\Adopt an Insect.dll
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\obj\Debug\net7.0\Adopt an Insect.pdb
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\obj\Debug\net7.0\Adopt an Insect.genruntimeconfig.cache
+C:\Users\MBBex\OneDrive\Desktop\Programming 1\Adopt an Insect\Adopt an Insect\obj\Debug\net7.0\ref\Adopt an Insect.dll
