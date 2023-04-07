@@ -3,7 +3,7 @@
 This is a portfolio for my assingments from "Introduction to Programming" Class at Columbia College Chicago.
 
 ## Assignment 1: Midterm Project
-![Midterm_image](https://github.com/MBBProgramming/MBB/blob/9797aa593f8c9f89af953b82e6036beffba6f5b5/To%20the%20Core%20image.png)
+![Midterm_image](https://github.com/MBBProgramming/Michael-Booth/blob/main/To%20the%20Core%20image.png?raw=true)
 My [Midterm Project](https://github.com/MBBProgramming/MBB/tree/b80cfb0fa7037bcae991e4c07eca75138719af0a/ToTheCore/ToTheCore) was to create an adventure game using C#.
 The premise of this text adventure is to travel to the center of a planet to gain treasure while on your way you encounter hazards and monsters.
 
